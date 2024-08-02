@@ -1,0 +1,7 @@
+INSERT INTO TB_AUTHOR VALUES (1, "aaa", "aaaaa");
+INSERT INTO TB_AUTHOR VALUES (2, "bbb", "bbbbb");
+INSERT INTO TB_AUTHOR VALUES (3, "ccc", "ccccc");
+
+INSERT INTO TB_BOOK VALUES (50, 1, 1, "title1");
+INSERT INTO TB_BOOK VALUES (60, 2, 2, "title2");
+INSERT INTO TB_BOOK VALUES (70, 1, 3, "title3");
